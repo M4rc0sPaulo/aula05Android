@@ -26,10 +26,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Resumo Simples
 
-Um aplicativo feito no Android Studio em Kotlin com Design simples, gerando um númnero aleatório de 1 até 6 mostrando uma imagem do dado.
+Um aplicativo feito no Android Studio em Kotlin com Design simples, arquitetado para poder gerar um dado aleatório de 1 a 6 de forma fácil e simples. Uma configuração mais simples sem muita diferença do habitual. Poucas mudanças.
 ![Exemplo](https://user-images.githubusercontent.com/124849131/227073157-c75b2be2-84c3-4ddb-bc2f-f4ef1a00571d.png)
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para Dice Roller
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 
