@@ -5,14 +5,18 @@ DADO D6 (DICE ROLLER)
 ![sTATUS](https://img.shields.io/badge/Status-Completo-green?style=for-the-badge&logo=appveyor)
 ![Linguas](https://img.shields.io/badge/Linguas-01-orange?style=for-the-badge&logo=appveyor)
 ![Linguas](https://img.shields.io/badge/Dificuldade-1/10-red?style=for-the-badge&logo=appveyor)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-<img src="app/src/main/res/drawable/dice_1.png/"height="100" width="150">
+
+![Dado_1](https://user-images.githubusercontent.com/124849131/227075549-9c5f1be4-c8c0-4b58-95ea-96a2340a20ba.png)
+
 
 > Um App rolador de dados.
 
 
 ## 💻 Pré-requisitos
+
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
