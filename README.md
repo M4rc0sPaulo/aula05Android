@@ -7,6 +7,7 @@ DADO D6 (DICE ROLLER)
 ![Linguas](https://img.shields.io/badge/Dificuldade-1/10-red?style=for-the-badge&logo=appveyor)
 
 
+<img src="app/src/main/res/drawable/dice_1.png/"height="100" width="150">
 
 > Um App rolador de dados.
 
